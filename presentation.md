@@ -1,4 +1,4 @@
-# Crowd Evacuation Simulation - Presentation Notes
+# Crowd Evacuation Simulation
 
 ## 1. Project Overview
 
